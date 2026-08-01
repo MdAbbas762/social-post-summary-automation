@@ -144,6 +144,12 @@ This provides a clean, centralized report of all submitted content.
 
 ---
 
+## 📸 Workflow
+
+![Workflow](screenshots/workflow.png)
+
+---
+
 ## 💡 Use Case
 
 This automation is suitable for content creators, digital marketers, agencies, researchers, and businesses that regularly review social media content from multiple platforms.
