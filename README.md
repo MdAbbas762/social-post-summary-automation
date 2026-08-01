@@ -4,6 +4,14 @@ This project implements a complete automation pipeline that accepts social media
 
 ---
 
+## 🎥 Demo
+
+Watch the complete automation walkthrough below.
+
+> **Loom Demo:**  
+> https://www.loom.com/share/ac115d7ed0c04d3e8c584cf27ffb0f0e
+
+---
 ## 📖 Overview
 
 This repository contains a Zapier automation that collects social media post URLs submitted through a Google Form and converts them into AI-generated summaries. The workflow integrates Google Forms, Apify, OpenAI, and Gmail to automate the complete process from data collection to email delivery.
